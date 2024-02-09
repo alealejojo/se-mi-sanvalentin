@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+img {
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+#options button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#no {
+    background-color: red;
+    color: white;
+}
+
+#yes {
+    background-color: green;
+    color: white;
+}
+
+#messages {
+    margin-top: 20px;
+    text-align: center;
+}
+
